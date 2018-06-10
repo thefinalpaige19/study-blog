@@ -1,0 +1,57 @@
+
+nav > ul {
+	margin:20px;
+	list-style-type: none;
+	padding:0;
+}
+
+nav > ul > li {
+	display: inline-block;
+	width: 24%;
+	margin: 0px;
+	
+}
+
+nav {
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+
+body {
+	background-color: lightblue;
+}
+
+.content {
+	width: 75%;
+	background-color: white;
+	margin: 30px auto;
+}
+
+.title {
+	color: darkblue;
+	font-family: cursive;
+	text-align: center;
+	padding: 30px;
+}
+
+.entry-title {
+	text-align: center;
+}
+
+#left, #right {
+	display: inline-block;
+	vertical-align: top;
+}
+
+#left {
+	width: 70%
+}
+
+
+#right {
+	width: 29%
+}
+
+.page-header {
+	text-align: center;
+}
